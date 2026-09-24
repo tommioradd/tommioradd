@@ -1,4 +1,5 @@
 ## Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+---
 I'm Tommi 
 
 #
@@ -14,6 +15,8 @@ I'm Tommi
 | ----------- | :-----------: | ----------- | ----------- |
 | [`YouTube-Clone`](https://tommioradd.github.io/YouTube.com-Clone/) | [LINK](https://github.com/tommioradd/YouTube.com-Clone) | Created with html/css | ✅ Complete |
 | [`Grid-landing-page`](https://tommioradd.github.io/grid-landing-page-clone/) | [LINK](https://github.com/tommioradd/grid-landing-page-clone) | Created with html/css | ✅ Complete |
+
+#
 
 <h3 align="left">👥Collaborations:</h3>
 
