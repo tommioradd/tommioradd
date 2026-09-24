@@ -14,4 +14,4 @@
 
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
-| [`Clipboard-landing-page`]() | [LINK](https://github.com/lagerstedt1/Clipboard-landing-page) | Created with html/css | ✅ Complete |
+| [`Clipboard-landing-page`](https://lagerstedt1.github.io/Clipboard-landing-page/) | [LINK](https://github.com/lagerstedt1/Clipboard-landing-page) | Created with html/css | ✅ Complete |
