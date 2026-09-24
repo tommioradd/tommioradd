@@ -18,7 +18,7 @@ I'm Tommi
 
 #
 
-<h3 align="left">👥Collaborations:</h3>
+<h3 align="left">👥Collabs:</h3>
 
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
