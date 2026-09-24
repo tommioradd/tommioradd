@@ -5,3 +5,7 @@
 
 <h3 align="left">Projects:</h3>
 
+| Project Name | Source Code | Description | Status |
+| ----------- | :-----------: | ----------- | ----------- |
+| [`YouTube-Clone`]() | [LINK]() | Created with html/css | ✅ Complete |
+| [`Grid-landing-page`]() | [LINK]() | Created with html/css | ✅ Complete |
