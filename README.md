@@ -8,4 +8,4 @@
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
 | YouTube-Clone | [LINK](https://tommioradd.github.io/YouTube.com-Clone/) | Created with html/css | ✅ Complete |
-| Grid-landing-page | [LINK]() | Created with html/css | ✅ Complete |
+| Grid-landing-page | [LINK](https://tommioradd.github.io/grid-landing-page-clone/) | Created with html/css | ✅ Complete |
