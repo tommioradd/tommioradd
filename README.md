@@ -16,3 +16,5 @@ I'm Tommi
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
 | [`Clipboard-landing-page`](https://lagerstedt1.github.io/Clipboard-landing-page/) | [LINK](https://github.com/lagerstedt1/Clipboard-landing-page) | Created with html/css | ✅ Complete |
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tommioradd&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=tommioradd&langs_count=4&theme=dark)
