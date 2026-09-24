@@ -7,11 +7,11 @@
 
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
-| YouTube-Clone | [LINK](https://tommioradd.github.io/YouTube.com-Clone/) | Created with html/css | ✅ Complete |
-| Grid-landing-page | [LINK](https://tommioradd.github.io/grid-landing-page-clone/) | Created with html/css | ✅ Complete |
+| [`YouTube-Clone`](https://tommioradd.github.io/YouTube.com-Clone/) | [LINK](https://github.com/tommioradd/YouTube.com-Clone) | Created with html/css | ✅ Complete |
+| [`Grid-landing-page`](https://tommioradd.github.io/grid-landing-page-clone/) | [LINK](https://github.com/tommioradd/grid-landing-page-clone) | Created with html/css | ✅ Complete |
 
 <h3 align="left">Collaborations:</h3>
 
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
-| Clipboard-landing-page | [LINK]() | Created with html/css | ✅ Complete |
+| [`Clipboard-landing-page`]() | [LINK](https://github.com/lagerstedt1/Clipboard-landing-page) | Created with html/css | ✅ Complete |
